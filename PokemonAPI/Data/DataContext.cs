@@ -18,7 +18,7 @@ namespace PokemonAPI.Data
         public DbSet<Review> Reviews { get; set; }
         public DbSet<Reviewer> Reviwers { get; set; }
 
-        protected override void  OnModelCreating(ModelBuilder modelBuilder)
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<PokemonCategory>()
             .HasKey(pc => new { pc.PokemonId, pc.CategoryId });

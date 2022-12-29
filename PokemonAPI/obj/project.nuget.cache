@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+F/9zQjt5IL6b6NdzmVMp8p7ArkQ2w7D3BQhloB7D64y/hUU2c/S8TjodDlRHhwm2ugWGGHQkfAr5sV4GelFBg==",
+  "dgSpecHash": "mAUgYPi82/LOj7YT+guupv99jt/m5qd/sFBoVzGNi7267NzvfSfdy64PZg3MvKRKOy/KER476bmRncYCKjvGsg==",
   "success": true,
   "projectFilePath": "C:\\Users\\e\\source\\repos\\PokemonAPI\\PokemonAPI\\PokemonAPI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\e\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\e\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\e\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\e\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\e\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
