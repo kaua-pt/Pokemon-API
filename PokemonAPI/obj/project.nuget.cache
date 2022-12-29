@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FQqsJlgopuOjxgDeZ2r2wh2ByJwJsdtUo+3DD4jiEgXyt22sRnzqFniNqXroRabLXwze1yzJ4PFIYYxf9t8z/Q==",
+  "dgSpecHash": "+F/9zQjt5IL6b6NdzmVMp8p7ArkQ2w7D3BQhloB7D64y/hUU2c/S8TjodDlRHhwm2ugWGGHQkfAr5sV4GelFBg==",
   "success": true,
   "projectFilePath": "C:\\Users\\e\\source\\repos\\PokemonAPI\\PokemonAPI\\PokemonAPI.csproj",
   "expectedPackageFiles": [
@@ -18,6 +18,7 @@
     "C:\\Users\\e\\.nuget\\packages\\microsoft.entityframeworkcore.design\\7.0.1\\microsoft.entityframeworkcore.design.7.0.1.nupkg.sha512",
     "C:\\Users\\e\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\7.0.1\\microsoft.entityframeworkcore.relational.7.0.1.nupkg.sha512",
     "C:\\Users\\e\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\7.0.1\\microsoft.entityframeworkcore.sqlserver.7.0.1.nupkg.sha512",
+    "C:\\Users\\e\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\7.0.1\\microsoft.entityframeworkcore.tools.7.0.1.nupkg.sha512",
     "C:\\Users\\e\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\e\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\e\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
